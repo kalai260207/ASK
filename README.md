@@ -1,3 +1,5 @@
+# NAME: KALAIVANI D
+# REG NO: 212224060113
 # ASK
 ## AIM
 To perform Amplitude Shift Keying{ASK} using Python.

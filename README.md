@@ -1,6 +1,7 @@
 # NAME: KALAIVANI D
 # REG NO: 212224060113
-# ASK
+# EXP NO: 4
+# EXP NAME: ASK
 ## AIM
 To perform Amplitude Shift Keying{ASK} using Python.
 
